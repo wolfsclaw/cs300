@@ -1,2 +1,3 @@
 # cs300
-Repository for my CS300 class
+<b><u>CS300 Class</u></b><br>
+<br>
