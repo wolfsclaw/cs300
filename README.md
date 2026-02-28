@@ -1,3 +1,2 @@
 # cs300
-<b><u>CS300 Class</u></b><br>
-<br>
+<h1><b>CS300 Class</b></h1>
